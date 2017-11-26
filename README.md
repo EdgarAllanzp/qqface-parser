@@ -18,3 +18,7 @@ qqfaceFilter (faceStr) {
 
 let htmlImgStr = qqfaceFilter(faceStr);
 ```
+
+## Issues
+I don't think it is a good idea to copy face images from **/node_modules** to project directory.
+If you have some good ideas, please tell me. Thank you.
