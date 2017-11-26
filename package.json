@@ -30,6 +30,6 @@
     "webpack": "^3.8.1"
   },
   "dependencies": {
-    "qqface-parser": "^1.0.0"
+    "qqface-parser": "^1.0.1"
   }
 }
